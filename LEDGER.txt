@@ -8,4 +8,4 @@ nelhage: 45
 carl: 30
 ludwig: 20
 pa: 30
-jim: 1
+jim: 2
