@@ -1,3 +1,9 @@
+**This is part of my Stripe CTF 3 Write-Up which can be found here:
+http://muehe.org/posts/stripe-ctf-3-writeup/**
+
+
+Original Readme:
+
 # Gitcoin
 
 Welcome to the wonderful world of Gitcoin!
